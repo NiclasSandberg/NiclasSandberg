@@ -50,7 +50,7 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Exploring Database for Statistics.
 
-- :zap: In my free time, I play the piano, climb and play video games.
+- :zap: In my free time, I like to hang out with friends, play the piano, climb and play video games.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Niclas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niclas-snitt-sandberg-46781315b/)
 
