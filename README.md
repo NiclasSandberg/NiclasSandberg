@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif?cid=ecf05e4779kjd3xb3krwkaa9g7ogeffxj0asbmp7bvm8q11r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -52,7 +52,7 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I play the piano, climb and play video games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Simon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niclas-snitt-sandberg-46781315b/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Niclas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niclas-snitt-sandberg-46781315b/)
 
 ---
 
@@ -76,5 +76,5 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simonhong2022&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonhong2022&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NiclasSandberg&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiclasSandberg&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
