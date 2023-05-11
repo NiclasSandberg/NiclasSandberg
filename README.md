@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
 
-- :telescope: I’m working as a Fullstack Software Developer for Salt(School of Applied Technology). Building web applications in frontend(React) and backend(Java).
+- :telescope: I’m working as a Fullstack Software Developer for Salt(School of Applied Technology) in Stockholm. Building web applications in frontend(React) and backend(Java).
 
 - :seedling: Doing a typeScript deep dive.
 
