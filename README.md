@@ -48,7 +48,7 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :telescope: I’m working as a Fullstack Software Developer for </Salt>. Building web applications in frontend(React) and backend(Java).
 
-- :seedling: Exploring Database for Statistics.
+- :seedling: Doing a typeScript deep dive.
 
 - :zap: In my free time, I like to hang out with friends, play the piano, climb and play video games.
 
