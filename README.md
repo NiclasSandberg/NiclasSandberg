@@ -48,7 +48,7 @@ I am a Full Stack Java Developer from Sweden.
 
 - :telescope: I’m working as a Fullstack Software Developer for Salt(School of Applied Technology) in Stockholm. Building web applications in frontend(React) and backend(Java).
 
-- :seedling: Doing a typeScript deep dive.
+- :seedling: Doing a TypeScript deep dive.
 
 - :zap: In my free time, I like to hang out with friends, play the piano, climb and play video games.
 
