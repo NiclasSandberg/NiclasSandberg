@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
+I am a Full Stack Java Developer from Sweden.
 
 - :telescope: I’m working as a Fullstack Software Developer for Salt(School of Applied Technology) in Stockholm. Building web applications in frontend(React) and backend(Java).
 
@@ -52,7 +52,7 @@ I am a Full Stack Java Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I like to hang out with friends, play the piano, climb and play video games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Niclas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niclas-snitt-sandberg-46781315b/)
+- :mailbox:Get in touch: [![Linkedin Badge](https://img.shields.io/badge/Niclas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niclas-snitt-sandberg-46781315b/)
 
 ---
 
